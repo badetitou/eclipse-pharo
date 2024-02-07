@@ -7,7 +7,7 @@
             base-type="org.eclipse.core.runtime.text"
             file-extensions="java"
             id="fr.badetitou.javalanguageserver"
-            name="BL Language Server"
+            name="Pharo Language Server"
             priority="normal">
       </content-type>
    </extension>

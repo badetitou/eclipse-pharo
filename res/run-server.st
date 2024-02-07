@@ -2,8 +2,8 @@
 
 Transcript crShow: 'Run with Eclipse'.
 
-BLLanguageServer reset.
-server := BLLanguageServer new
+PLSServer reset.
+server := PLSServer new
 		withStdIO: true;
 		debugMode: true;
 		yourself.
